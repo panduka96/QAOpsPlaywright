@@ -1,0 +1,11 @@
+node_modules/
+allure-report/
+allure-results/
+playwright-report/
+test-results/
+*.png
+state.json
+temp_explore.js
+.DS_Store
+.playwright-cli/
+.claude/settings.local.json
